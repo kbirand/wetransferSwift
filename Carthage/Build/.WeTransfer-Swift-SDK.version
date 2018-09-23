@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "WeTransfer",
+      "hash" : "9c11ac15ce650769b91d644c37835a5b22e8314af0ffa9d877ff9005ee4b3887"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v1.0.1",
+  "iOS" : [
+    {
+      "name" : "WeTransfer",
+      "hash" : "2a27881609da87ed6699a27e25cde5b80936e093ae20456fe365deabb11d0bfb"
+    }
+  ]
+}
